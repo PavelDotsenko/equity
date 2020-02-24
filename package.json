@@ -1,0 +1,26 @@
+{
+  "name": "equity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PavelDotsenko/equity.git"
+  },
+  "author": "PavelDotsenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PavelDotsenko/equity/issues"
+  },
+  "homepage": "https://github.com/PavelDotsenko/equity#readme",
+  "devDependencies": {
+    "chart.js": "^2.9.3",
+    "chartjs-node": "^1.7.1",
+    "dayjs": "^1.8.20",
+    "image-js": "^0.21.8"
+  }
+}
